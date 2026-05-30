@@ -29,7 +29,6 @@ How it works:
 - Wrong guesses reduce lives
 - Game ends when word is completed or lives reach 0
 
-E
 
 Win condition:
 - You guessed all letters correctly
